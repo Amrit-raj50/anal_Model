@@ -1,0 +1,801 @@
+customer_id,customer_unique_id,customer_city,customer_state
+cust_0,u_cust_0,Belo Horizonte,SP
+cust_1,u_cust_1,Salvador,RJ
+cust_2,u_cust_2,Sao Paulo,SP
+cust_3,u_cust_3,Belo Horizonte,SP
+cust_4,u_cust_4,Belo Horizonte,RJ
+cust_5,u_cust_5,Salvador,BA
+cust_6,u_cust_6,Sao Paulo,BA
+cust_7,u_cust_7,Sao Paulo,SP
+cust_8,u_cust_8,Belo Horizonte,RJ
+cust_9,u_cust_9,Rio de Janeiro,SP
+cust_10,u_cust_10,Belo Horizonte,MG
+cust_11,u_cust_11,Belo Horizonte,MG
+cust_12,u_cust_12,Belo Horizonte,SP
+cust_13,u_cust_13,Belo Horizonte,BA
+cust_14,u_cust_14,Salvador,BA
+cust_15,u_cust_15,Sao Paulo,SP
+cust_16,u_cust_16,Salvador,SP
+cust_17,u_cust_17,Salvador,MG
+cust_18,u_cust_18,Salvador,BA
+cust_19,u_cust_19,Belo Horizonte,SP
+cust_20,u_cust_20,Rio de Janeiro,MG
+cust_21,u_cust_21,Sao Paulo,BA
+cust_22,u_cust_22,Rio de Janeiro,RJ
+cust_23,u_cust_23,Salvador,MG
+cust_24,u_cust_24,Salvador,BA
+cust_25,u_cust_25,Rio de Janeiro,BA
+cust_26,u_cust_26,Rio de Janeiro,MG
+cust_27,u_cust_27,Rio de Janeiro,RJ
+cust_28,u_cust_28,Salvador,MG
+cust_29,u_cust_29,Salvador,BA
+cust_30,u_cust_30,Sao Paulo,SP
+cust_31,u_cust_31,Sao Paulo,SP
+cust_32,u_cust_32,Salvador,MG
+cust_33,u_cust_33,Rio de Janeiro,BA
+cust_34,u_cust_34,Rio de Janeiro,SP
+cust_35,u_cust_35,Sao Paulo,BA
+cust_36,u_cust_36,Salvador,MG
+cust_37,u_cust_37,Sao Paulo,SP
+cust_38,u_cust_38,Sao Paulo,BA
+cust_39,u_cust_39,Belo Horizonte,SP
+cust_40,u_cust_40,Belo Horizonte,MG
+cust_41,u_cust_41,Belo Horizonte,BA
+cust_42,u_cust_42,Rio de Janeiro,SP
+cust_43,u_cust_43,Salvador,MG
+cust_44,u_cust_44,Salvador,SP
+cust_45,u_cust_45,Salvador,SP
+cust_46,u_cust_46,Salvador,RJ
+cust_47,u_cust_47,Belo Horizonte,RJ
+cust_48,u_cust_48,Rio de Janeiro,MG
+cust_49,u_cust_49,Rio de Janeiro,RJ
+cust_50,u_cust_50,Belo Horizonte,MG
+cust_51,u_cust_51,Rio de Janeiro,RJ
+cust_52,u_cust_52,Belo Horizonte,SP
+cust_53,u_cust_53,Salvador,MG
+cust_54,u_cust_54,Belo Horizonte,MG
+cust_55,u_cust_55,Salvador,SP
+cust_56,u_cust_56,Salvador,MG
+cust_57,u_cust_57,Sao Paulo,MG
+cust_58,u_cust_58,Belo Horizonte,RJ
+cust_59,u_cust_59,Sao Paulo,MG
+cust_60,u_cust_60,Belo Horizonte,BA
+cust_61,u_cust_61,Belo Horizonte,SP
+cust_62,u_cust_62,Sao Paulo,RJ
+cust_63,u_cust_63,Sao Paulo,RJ
+cust_64,u_cust_64,Belo Horizonte,BA
+cust_65,u_cust_65,Rio de Janeiro,SP
+cust_66,u_cust_66,Salvador,SP
+cust_67,u_cust_67,Sao Paulo,RJ
+cust_68,u_cust_68,Salvador,MG
+cust_69,u_cust_69,Rio de Janeiro,RJ
+cust_70,u_cust_70,Rio de Janeiro,SP
+cust_71,u_cust_71,Rio de Janeiro,BA
+cust_72,u_cust_72,Sao Paulo,RJ
+cust_73,u_cust_73,Rio de Janeiro,SP
+cust_74,u_cust_74,Sao Paulo,RJ
+cust_75,u_cust_75,Rio de Janeiro,MG
+cust_76,u_cust_76,Salvador,RJ
+cust_77,u_cust_77,Salvador,RJ
+cust_78,u_cust_78,Belo Horizonte,SP
+cust_79,u_cust_79,Salvador,SP
+cust_80,u_cust_80,Belo Horizonte,SP
+cust_81,u_cust_81,Salvador,RJ
+cust_82,u_cust_82,Sao Paulo,MG
+cust_83,u_cust_83,Salvador,BA
+cust_84,u_cust_84,Belo Horizonte,BA
+cust_85,u_cust_85,Belo Horizonte,SP
+cust_86,u_cust_86,Rio de Janeiro,SP
+cust_87,u_cust_87,Sao Paulo,RJ
+cust_88,u_cust_88,Salvador,BA
+cust_89,u_cust_89,Rio de Janeiro,SP
+cust_90,u_cust_90,Salvador,MG
+cust_91,u_cust_91,Salvador,MG
+cust_92,u_cust_92,Rio de Janeiro,SP
+cust_93,u_cust_93,Rio de Janeiro,SP
+cust_94,u_cust_94,Rio de Janeiro,BA
+cust_95,u_cust_95,Rio de Janeiro,BA
+cust_96,u_cust_96,Rio de Janeiro,RJ
+cust_97,u_cust_97,Salvador,BA
+cust_98,u_cust_98,Rio de Janeiro,MG
+cust_99,u_cust_99,Sao Paulo,MG
+cust_100,u_cust_100,Belo Horizonte,SP
+cust_101,u_cust_101,Rio de Janeiro,BA
+cust_102,u_cust_102,Rio de Janeiro,RJ
+cust_103,u_cust_103,Salvador,MG
+cust_104,u_cust_104,Rio de Janeiro,MG
+cust_105,u_cust_105,Rio de Janeiro,RJ
+cust_106,u_cust_106,Rio de Janeiro,RJ
+cust_107,u_cust_107,Salvador,MG
+cust_108,u_cust_108,Rio de Janeiro,MG
+cust_109,u_cust_109,Belo Horizonte,RJ
+cust_110,u_cust_110,Salvador,MG
+cust_111,u_cust_111,Belo Horizonte,SP
+cust_112,u_cust_112,Salvador,SP
+cust_113,u_cust_113,Rio de Janeiro,RJ
+cust_114,u_cust_114,Belo Horizonte,BA
+cust_115,u_cust_115,Salvador,RJ
+cust_116,u_cust_116,Sao Paulo,RJ
+cust_117,u_cust_117,Rio de Janeiro,BA
+cust_118,u_cust_118,Salvador,BA
+cust_119,u_cust_119,Sao Paulo,BA
+cust_120,u_cust_120,Salvador,SP
+cust_121,u_cust_121,Sao Paulo,MG
+cust_122,u_cust_122,Rio de Janeiro,SP
+cust_123,u_cust_123,Belo Horizonte,MG
+cust_124,u_cust_124,Sao Paulo,SP
+cust_125,u_cust_125,Salvador,MG
+cust_126,u_cust_126,Rio de Janeiro,SP
+cust_127,u_cust_127,Sao Paulo,BA
+cust_128,u_cust_128,Salvador,RJ
+cust_129,u_cust_129,Salvador,SP
+cust_130,u_cust_130,Salvador,MG
+cust_131,u_cust_131,Sao Paulo,BA
+cust_132,u_cust_132,Sao Paulo,SP
+cust_133,u_cust_133,Sao Paulo,SP
+cust_134,u_cust_134,Belo Horizonte,BA
+cust_135,u_cust_135,Sao Paulo,SP
+cust_136,u_cust_136,Sao Paulo,RJ
+cust_137,u_cust_137,Sao Paulo,SP
+cust_138,u_cust_138,Belo Horizonte,RJ
+cust_139,u_cust_139,Sao Paulo,RJ
+cust_140,u_cust_140,Salvador,BA
+cust_141,u_cust_141,Sao Paulo,SP
+cust_142,u_cust_142,Salvador,BA
+cust_143,u_cust_143,Salvador,SP
+cust_144,u_cust_144,Salvador,SP
+cust_145,u_cust_145,Belo Horizonte,MG
+cust_146,u_cust_146,Belo Horizonte,SP
+cust_147,u_cust_147,Belo Horizonte,BA
+cust_148,u_cust_148,Sao Paulo,RJ
+cust_149,u_cust_149,Salvador,SP
+cust_150,u_cust_150,Belo Horizonte,MG
+cust_151,u_cust_151,Belo Horizonte,BA
+cust_152,u_cust_152,Sao Paulo,SP
+cust_153,u_cust_153,Belo Horizonte,BA
+cust_154,u_cust_154,Sao Paulo,MG
+cust_155,u_cust_155,Rio de Janeiro,MG
+cust_156,u_cust_156,Belo Horizonte,BA
+cust_157,u_cust_157,Rio de Janeiro,SP
+cust_158,u_cust_158,Sao Paulo,RJ
+cust_159,u_cust_159,Salvador,MG
+cust_160,u_cust_160,Belo Horizonte,SP
+cust_161,u_cust_161,Sao Paulo,SP
+cust_162,u_cust_162,Salvador,RJ
+cust_163,u_cust_163,Salvador,MG
+cust_164,u_cust_164,Rio de Janeiro,MG
+cust_165,u_cust_165,Sao Paulo,SP
+cust_166,u_cust_166,Salvador,SP
+cust_167,u_cust_167,Belo Horizonte,RJ
+cust_168,u_cust_168,Belo Horizonte,RJ
+cust_169,u_cust_169,Rio de Janeiro,MG
+cust_170,u_cust_170,Salvador,BA
+cust_171,u_cust_171,Sao Paulo,MG
+cust_172,u_cust_172,Belo Horizonte,SP
+cust_173,u_cust_173,Salvador,MG
+cust_174,u_cust_174,Salvador,BA
+cust_175,u_cust_175,Rio de Janeiro,RJ
+cust_176,u_cust_176,Belo Horizonte,BA
+cust_177,u_cust_177,Belo Horizonte,BA
+cust_178,u_cust_178,Sao Paulo,BA
+cust_179,u_cust_179,Belo Horizonte,RJ
+cust_180,u_cust_180,Sao Paulo,BA
+cust_181,u_cust_181,Belo Horizonte,BA
+cust_182,u_cust_182,Rio de Janeiro,BA
+cust_183,u_cust_183,Belo Horizonte,SP
+cust_184,u_cust_184,Sao Paulo,BA
+cust_185,u_cust_185,Sao Paulo,RJ
+cust_186,u_cust_186,Rio de Janeiro,BA
+cust_187,u_cust_187,Belo Horizonte,BA
+cust_188,u_cust_188,Belo Horizonte,RJ
+cust_189,u_cust_189,Rio de Janeiro,BA
+cust_190,u_cust_190,Belo Horizonte,RJ
+cust_191,u_cust_191,Belo Horizonte,BA
+cust_192,u_cust_192,Sao Paulo,RJ
+cust_193,u_cust_193,Belo Horizonte,BA
+cust_194,u_cust_194,Belo Horizonte,BA
+cust_195,u_cust_195,Rio de Janeiro,SP
+cust_196,u_cust_196,Rio de Janeiro,SP
+cust_197,u_cust_197,Salvador,BA
+cust_198,u_cust_198,Sao Paulo,BA
+cust_199,u_cust_199,Belo Horizonte,MG
+cust_200,u_cust_200,Belo Horizonte,RJ
+cust_201,u_cust_201,Salvador,MG
+cust_202,u_cust_202,Belo Horizonte,SP
+cust_203,u_cust_203,Sao Paulo,SP
+cust_204,u_cust_204,Salvador,SP
+cust_205,u_cust_205,Sao Paulo,SP
+cust_206,u_cust_206,Salvador,BA
+cust_207,u_cust_207,Salvador,SP
+cust_208,u_cust_208,Rio de Janeiro,BA
+cust_209,u_cust_209,Sao Paulo,BA
+cust_210,u_cust_210,Belo Horizonte,SP
+cust_211,u_cust_211,Belo Horizonte,SP
+cust_212,u_cust_212,Sao Paulo,RJ
+cust_213,u_cust_213,Belo Horizonte,MG
+cust_214,u_cust_214,Belo Horizonte,SP
+cust_215,u_cust_215,Sao Paulo,RJ
+cust_216,u_cust_216,Salvador,RJ
+cust_217,u_cust_217,Sao Paulo,MG
+cust_218,u_cust_218,Salvador,BA
+cust_219,u_cust_219,Belo Horizonte,SP
+cust_220,u_cust_220,Belo Horizonte,MG
+cust_221,u_cust_221,Belo Horizonte,SP
+cust_222,u_cust_222,Rio de Janeiro,RJ
+cust_223,u_cust_223,Salvador,RJ
+cust_224,u_cust_224,Rio de Janeiro,BA
+cust_225,u_cust_225,Rio de Janeiro,RJ
+cust_226,u_cust_226,Sao Paulo,RJ
+cust_227,u_cust_227,Rio de Janeiro,MG
+cust_228,u_cust_228,Sao Paulo,SP
+cust_229,u_cust_229,Sao Paulo,SP
+cust_230,u_cust_230,Rio de Janeiro,MG
+cust_231,u_cust_231,Salvador,BA
+cust_232,u_cust_232,Salvador,SP
+cust_233,u_cust_233,Salvador,RJ
+cust_234,u_cust_234,Salvador,SP
+cust_235,u_cust_235,Salvador,RJ
+cust_236,u_cust_236,Rio de Janeiro,BA
+cust_237,u_cust_237,Rio de Janeiro,MG
+cust_238,u_cust_238,Belo Horizonte,SP
+cust_239,u_cust_239,Salvador,MG
+cust_240,u_cust_240,Rio de Janeiro,SP
+cust_241,u_cust_241,Belo Horizonte,RJ
+cust_242,u_cust_242,Salvador,MG
+cust_243,u_cust_243,Sao Paulo,SP
+cust_244,u_cust_244,Belo Horizonte,RJ
+cust_245,u_cust_245,Rio de Janeiro,MG
+cust_246,u_cust_246,Sao Paulo,MG
+cust_247,u_cust_247,Sao Paulo,SP
+cust_248,u_cust_248,Sao Paulo,SP
+cust_249,u_cust_249,Belo Horizonte,SP
+cust_250,u_cust_250,Rio de Janeiro,RJ
+cust_251,u_cust_251,Sao Paulo,SP
+cust_252,u_cust_252,Salvador,MG
+cust_253,u_cust_253,Sao Paulo,MG
+cust_254,u_cust_254,Sao Paulo,SP
+cust_255,u_cust_255,Belo Horizonte,SP
+cust_256,u_cust_256,Belo Horizonte,BA
+cust_257,u_cust_257,Rio de Janeiro,MG
+cust_258,u_cust_258,Salvador,RJ
+cust_259,u_cust_259,Belo Horizonte,BA
+cust_260,u_cust_260,Sao Paulo,SP
+cust_261,u_cust_261,Rio de Janeiro,SP
+cust_262,u_cust_262,Sao Paulo,MG
+cust_263,u_cust_263,Sao Paulo,SP
+cust_264,u_cust_264,Belo Horizonte,RJ
+cust_265,u_cust_265,Rio de Janeiro,MG
+cust_266,u_cust_266,Salvador,SP
+cust_267,u_cust_267,Salvador,MG
+cust_268,u_cust_268,Belo Horizonte,SP
+cust_269,u_cust_269,Belo Horizonte,SP
+cust_270,u_cust_270,Rio de Janeiro,SP
+cust_271,u_cust_271,Salvador,RJ
+cust_272,u_cust_272,Salvador,RJ
+cust_273,u_cust_273,Salvador,MG
+cust_274,u_cust_274,Sao Paulo,SP
+cust_275,u_cust_275,Salvador,SP
+cust_276,u_cust_276,Sao Paulo,RJ
+cust_277,u_cust_277,Rio de Janeiro,SP
+cust_278,u_cust_278,Sao Paulo,RJ
+cust_279,u_cust_279,Rio de Janeiro,SP
+cust_280,u_cust_280,Salvador,MG
+cust_281,u_cust_281,Salvador,SP
+cust_282,u_cust_282,Rio de Janeiro,SP
+cust_283,u_cust_283,Belo Horizonte,BA
+cust_284,u_cust_284,Rio de Janeiro,RJ
+cust_285,u_cust_285,Belo Horizonte,SP
+cust_286,u_cust_286,Sao Paulo,SP
+cust_287,u_cust_287,Sao Paulo,BA
+cust_288,u_cust_288,Sao Paulo,BA
+cust_289,u_cust_289,Salvador,RJ
+cust_290,u_cust_290,Sao Paulo,BA
+cust_291,u_cust_291,Belo Horizonte,MG
+cust_292,u_cust_292,Sao Paulo,BA
+cust_293,u_cust_293,Rio de Janeiro,MG
+cust_294,u_cust_294,Rio de Janeiro,RJ
+cust_295,u_cust_295,Salvador,RJ
+cust_296,u_cust_296,Rio de Janeiro,RJ
+cust_297,u_cust_297,Belo Horizonte,RJ
+cust_298,u_cust_298,Sao Paulo,RJ
+cust_299,u_cust_299,Salvador,MG
+cust_300,u_cust_300,Sao Paulo,MG
+cust_301,u_cust_301,Sao Paulo,RJ
+cust_302,u_cust_302,Belo Horizonte,BA
+cust_303,u_cust_303,Rio de Janeiro,SP
+cust_304,u_cust_304,Rio de Janeiro,RJ
+cust_305,u_cust_305,Sao Paulo,BA
+cust_306,u_cust_306,Salvador,SP
+cust_307,u_cust_307,Rio de Janeiro,RJ
+cust_308,u_cust_308,Salvador,RJ
+cust_309,u_cust_309,Rio de Janeiro,MG
+cust_310,u_cust_310,Salvador,SP
+cust_311,u_cust_311,Belo Horizonte,SP
+cust_312,u_cust_312,Salvador,BA
+cust_313,u_cust_313,Belo Horizonte,MG
+cust_314,u_cust_314,Belo Horizonte,MG
+cust_315,u_cust_315,Salvador,MG
+cust_316,u_cust_316,Belo Horizonte,MG
+cust_317,u_cust_317,Sao Paulo,SP
+cust_318,u_cust_318,Belo Horizonte,SP
+cust_319,u_cust_319,Rio de Janeiro,RJ
+cust_320,u_cust_320,Salvador,RJ
+cust_321,u_cust_321,Sao Paulo,MG
+cust_322,u_cust_322,Salvador,MG
+cust_323,u_cust_323,Rio de Janeiro,MG
+cust_324,u_cust_324,Rio de Janeiro,RJ
+cust_325,u_cust_325,Rio de Janeiro,BA
+cust_326,u_cust_326,Belo Horizonte,BA
+cust_327,u_cust_327,Belo Horizonte,RJ
+cust_328,u_cust_328,Salvador,RJ
+cust_329,u_cust_329,Salvador,RJ
+cust_330,u_cust_330,Sao Paulo,RJ
+cust_331,u_cust_331,Sao Paulo,RJ
+cust_332,u_cust_332,Salvador,RJ
+cust_333,u_cust_333,Belo Horizonte,MG
+cust_334,u_cust_334,Rio de Janeiro,MG
+cust_335,u_cust_335,Salvador,MG
+cust_336,u_cust_336,Sao Paulo,MG
+cust_337,u_cust_337,Belo Horizonte,RJ
+cust_338,u_cust_338,Salvador,BA
+cust_339,u_cust_339,Salvador,SP
+cust_340,u_cust_340,Belo Horizonte,RJ
+cust_341,u_cust_341,Salvador,SP
+cust_342,u_cust_342,Belo Horizonte,BA
+cust_343,u_cust_343,Rio de Janeiro,MG
+cust_344,u_cust_344,Belo Horizonte,BA
+cust_345,u_cust_345,Belo Horizonte,RJ
+cust_346,u_cust_346,Belo Horizonte,MG
+cust_347,u_cust_347,Salvador,RJ
+cust_348,u_cust_348,Salvador,MG
+cust_349,u_cust_349,Belo Horizonte,SP
+cust_350,u_cust_350,Salvador,SP
+cust_351,u_cust_351,Sao Paulo,SP
+cust_352,u_cust_352,Sao Paulo,BA
+cust_353,u_cust_353,Salvador,RJ
+cust_354,u_cust_354,Salvador,BA
+cust_355,u_cust_355,Belo Horizonte,SP
+cust_356,u_cust_356,Rio de Janeiro,RJ
+cust_357,u_cust_357,Salvador,SP
+cust_358,u_cust_358,Sao Paulo,BA
+cust_359,u_cust_359,Belo Horizonte,BA
+cust_360,u_cust_360,Salvador,BA
+cust_361,u_cust_361,Sao Paulo,SP
+cust_362,u_cust_362,Sao Paulo,RJ
+cust_363,u_cust_363,Rio de Janeiro,RJ
+cust_364,u_cust_364,Belo Horizonte,SP
+cust_365,u_cust_365,Belo Horizonte,RJ
+cust_366,u_cust_366,Rio de Janeiro,SP
+cust_367,u_cust_367,Rio de Janeiro,RJ
+cust_368,u_cust_368,Belo Horizonte,MG
+cust_369,u_cust_369,Belo Horizonte,MG
+cust_370,u_cust_370,Salvador,BA
+cust_371,u_cust_371,Salvador,MG
+cust_372,u_cust_372,Rio de Janeiro,MG
+cust_373,u_cust_373,Salvador,MG
+cust_374,u_cust_374,Sao Paulo,SP
+cust_375,u_cust_375,Salvador,MG
+cust_376,u_cust_376,Salvador,MG
+cust_377,u_cust_377,Sao Paulo,BA
+cust_378,u_cust_378,Rio de Janeiro,MG
+cust_379,u_cust_379,Sao Paulo,MG
+cust_380,u_cust_380,Salvador,RJ
+cust_381,u_cust_381,Rio de Janeiro,BA
+cust_382,u_cust_382,Salvador,BA
+cust_383,u_cust_383,Sao Paulo,BA
+cust_384,u_cust_384,Sao Paulo,BA
+cust_385,u_cust_385,Salvador,BA
+cust_386,u_cust_386,Belo Horizonte,BA
+cust_387,u_cust_387,Belo Horizonte,SP
+cust_388,u_cust_388,Sao Paulo,MG
+cust_389,u_cust_389,Sao Paulo,BA
+cust_390,u_cust_390,Belo Horizonte,MG
+cust_391,u_cust_391,Belo Horizonte,MG
+cust_392,u_cust_392,Salvador,SP
+cust_393,u_cust_393,Salvador,BA
+cust_394,u_cust_394,Belo Horizonte,RJ
+cust_395,u_cust_395,Salvador,SP
+cust_396,u_cust_396,Salvador,RJ
+cust_397,u_cust_397,Rio de Janeiro,MG
+cust_398,u_cust_398,Salvador,MG
+cust_399,u_cust_399,Sao Paulo,SP
+cust_400,u_cust_400,Salvador,SP
+cust_401,u_cust_401,Salvador,RJ
+cust_402,u_cust_402,Belo Horizonte,BA
+cust_403,u_cust_403,Sao Paulo,RJ
+cust_404,u_cust_404,Salvador,SP
+cust_405,u_cust_405,Salvador,RJ
+cust_406,u_cust_406,Rio de Janeiro,SP
+cust_407,u_cust_407,Salvador,RJ
+cust_408,u_cust_408,Salvador,SP
+cust_409,u_cust_409,Rio de Janeiro,SP
+cust_410,u_cust_410,Belo Horizonte,SP
+cust_411,u_cust_411,Salvador,BA
+cust_412,u_cust_412,Rio de Janeiro,RJ
+cust_413,u_cust_413,Sao Paulo,RJ
+cust_414,u_cust_414,Belo Horizonte,RJ
+cust_415,u_cust_415,Sao Paulo,SP
+cust_416,u_cust_416,Sao Paulo,RJ
+cust_417,u_cust_417,Rio de Janeiro,RJ
+cust_418,u_cust_418,Salvador,SP
+cust_419,u_cust_419,Rio de Janeiro,MG
+cust_420,u_cust_420,Rio de Janeiro,SP
+cust_421,u_cust_421,Rio de Janeiro,RJ
+cust_422,u_cust_422,Rio de Janeiro,SP
+cust_423,u_cust_423,Belo Horizonte,MG
+cust_424,u_cust_424,Salvador,SP
+cust_425,u_cust_425,Sao Paulo,RJ
+cust_426,u_cust_426,Sao Paulo,MG
+cust_427,u_cust_427,Salvador,BA
+cust_428,u_cust_428,Sao Paulo,RJ
+cust_429,u_cust_429,Salvador,MG
+cust_430,u_cust_430,Sao Paulo,MG
+cust_431,u_cust_431,Rio de Janeiro,BA
+cust_432,u_cust_432,Sao Paulo,SP
+cust_433,u_cust_433,Salvador,SP
+cust_434,u_cust_434,Salvador,RJ
+cust_435,u_cust_435,Salvador,BA
+cust_436,u_cust_436,Salvador,SP
+cust_437,u_cust_437,Salvador,BA
+cust_438,u_cust_438,Belo Horizonte,SP
+cust_439,u_cust_439,Belo Horizonte,MG
+cust_440,u_cust_440,Sao Paulo,SP
+cust_441,u_cust_441,Salvador,BA
+cust_442,u_cust_442,Sao Paulo,MG
+cust_443,u_cust_443,Salvador,MG
+cust_444,u_cust_444,Salvador,MG
+cust_445,u_cust_445,Belo Horizonte,BA
+cust_446,u_cust_446,Belo Horizonte,RJ
+cust_447,u_cust_447,Rio de Janeiro,RJ
+cust_448,u_cust_448,Belo Horizonte,RJ
+cust_449,u_cust_449,Rio de Janeiro,BA
+cust_450,u_cust_450,Rio de Janeiro,MG
+cust_451,u_cust_451,Rio de Janeiro,RJ
+cust_452,u_cust_452,Rio de Janeiro,BA
+cust_453,u_cust_453,Rio de Janeiro,RJ
+cust_454,u_cust_454,Sao Paulo,SP
+cust_455,u_cust_455,Belo Horizonte,RJ
+cust_456,u_cust_456,Rio de Janeiro,RJ
+cust_457,u_cust_457,Salvador,MG
+cust_458,u_cust_458,Belo Horizonte,BA
+cust_459,u_cust_459,Belo Horizonte,MG
+cust_460,u_cust_460,Rio de Janeiro,MG
+cust_461,u_cust_461,Sao Paulo,MG
+cust_462,u_cust_462,Rio de Janeiro,MG
+cust_463,u_cust_463,Sao Paulo,MG
+cust_464,u_cust_464,Salvador,RJ
+cust_465,u_cust_465,Belo Horizonte,MG
+cust_466,u_cust_466,Salvador,MG
+cust_467,u_cust_467,Sao Paulo,BA
+cust_468,u_cust_468,Sao Paulo,SP
+cust_469,u_cust_469,Salvador,RJ
+cust_470,u_cust_470,Sao Paulo,RJ
+cust_471,u_cust_471,Salvador,RJ
+cust_472,u_cust_472,Belo Horizonte,MG
+cust_473,u_cust_473,Salvador,MG
+cust_474,u_cust_474,Belo Horizonte,MG
+cust_475,u_cust_475,Salvador,BA
+cust_476,u_cust_476,Sao Paulo,SP
+cust_477,u_cust_477,Salvador,MG
+cust_478,u_cust_478,Sao Paulo,SP
+cust_479,u_cust_479,Salvador,BA
+cust_480,u_cust_480,Salvador,RJ
+cust_481,u_cust_481,Rio de Janeiro,MG
+cust_482,u_cust_482,Sao Paulo,SP
+cust_483,u_cust_483,Rio de Janeiro,SP
+cust_484,u_cust_484,Sao Paulo,MG
+cust_485,u_cust_485,Rio de Janeiro,RJ
+cust_486,u_cust_486,Belo Horizonte,RJ
+cust_487,u_cust_487,Salvador,RJ
+cust_488,u_cust_488,Sao Paulo,BA
+cust_489,u_cust_489,Sao Paulo,SP
+cust_490,u_cust_490,Salvador,SP
+cust_491,u_cust_491,Sao Paulo,SP
+cust_492,u_cust_492,Sao Paulo,BA
+cust_493,u_cust_493,Rio de Janeiro,SP
+cust_494,u_cust_494,Sao Paulo,BA
+cust_495,u_cust_495,Belo Horizonte,RJ
+cust_496,u_cust_496,Belo Horizonte,MG
+cust_497,u_cust_497,Salvador,SP
+cust_498,u_cust_498,Sao Paulo,SP
+cust_499,u_cust_499,Salvador,RJ
+cust_500,u_cust_500,Belo Horizonte,MG
+cust_501,u_cust_501,Sao Paulo,BA
+cust_502,u_cust_502,Sao Paulo,MG
+cust_503,u_cust_503,Salvador,RJ
+cust_504,u_cust_504,Belo Horizonte,RJ
+cust_505,u_cust_505,Sao Paulo,MG
+cust_506,u_cust_506,Salvador,BA
+cust_507,u_cust_507,Belo Horizonte,BA
+cust_508,u_cust_508,Salvador,SP
+cust_509,u_cust_509,Rio de Janeiro,BA
+cust_510,u_cust_510,Sao Paulo,MG
+cust_511,u_cust_511,Rio de Janeiro,RJ
+cust_512,u_cust_512,Belo Horizonte,SP
+cust_513,u_cust_513,Rio de Janeiro,SP
+cust_514,u_cust_514,Rio de Janeiro,RJ
+cust_515,u_cust_515,Belo Horizonte,BA
+cust_516,u_cust_516,Salvador,RJ
+cust_517,u_cust_517,Rio de Janeiro,BA
+cust_518,u_cust_518,Salvador,RJ
+cust_519,u_cust_519,Rio de Janeiro,MG
+cust_520,u_cust_520,Salvador,BA
+cust_521,u_cust_521,Belo Horizonte,MG
+cust_522,u_cust_522,Rio de Janeiro,SP
+cust_523,u_cust_523,Belo Horizonte,RJ
+cust_524,u_cust_524,Rio de Janeiro,SP
+cust_525,u_cust_525,Belo Horizonte,SP
+cust_526,u_cust_526,Belo Horizonte,SP
+cust_527,u_cust_527,Rio de Janeiro,SP
+cust_528,u_cust_528,Rio de Janeiro,RJ
+cust_529,u_cust_529,Rio de Janeiro,SP
+cust_530,u_cust_530,Sao Paulo,RJ
+cust_531,u_cust_531,Salvador,RJ
+cust_532,u_cust_532,Sao Paulo,MG
+cust_533,u_cust_533,Sao Paulo,BA
+cust_534,u_cust_534,Belo Horizonte,BA
+cust_535,u_cust_535,Rio de Janeiro,RJ
+cust_536,u_cust_536,Salvador,MG
+cust_537,u_cust_537,Belo Horizonte,RJ
+cust_538,u_cust_538,Sao Paulo,RJ
+cust_539,u_cust_539,Rio de Janeiro,RJ
+cust_540,u_cust_540,Belo Horizonte,MG
+cust_541,u_cust_541,Rio de Janeiro,BA
+cust_542,u_cust_542,Belo Horizonte,MG
+cust_543,u_cust_543,Rio de Janeiro,SP
+cust_544,u_cust_544,Sao Paulo,MG
+cust_545,u_cust_545,Salvador,MG
+cust_546,u_cust_546,Sao Paulo,MG
+cust_547,u_cust_547,Salvador,MG
+cust_548,u_cust_548,Rio de Janeiro,BA
+cust_549,u_cust_549,Belo Horizonte,SP
+cust_550,u_cust_550,Sao Paulo,BA
+cust_551,u_cust_551,Salvador,BA
+cust_552,u_cust_552,Sao Paulo,MG
+cust_553,u_cust_553,Salvador,RJ
+cust_554,u_cust_554,Sao Paulo,RJ
+cust_555,u_cust_555,Salvador,BA
+cust_556,u_cust_556,Salvador,BA
+cust_557,u_cust_557,Rio de Janeiro,MG
+cust_558,u_cust_558,Salvador,BA
+cust_559,u_cust_559,Rio de Janeiro,MG
+cust_560,u_cust_560,Salvador,RJ
+cust_561,u_cust_561,Belo Horizonte,RJ
+cust_562,u_cust_562,Belo Horizonte,SP
+cust_563,u_cust_563,Belo Horizonte,RJ
+cust_564,u_cust_564,Salvador,BA
+cust_565,u_cust_565,Rio de Janeiro,RJ
+cust_566,u_cust_566,Rio de Janeiro,MG
+cust_567,u_cust_567,Salvador,RJ
+cust_568,u_cust_568,Belo Horizonte,SP
+cust_569,u_cust_569,Belo Horizonte,RJ
+cust_570,u_cust_570,Rio de Janeiro,MG
+cust_571,u_cust_571,Belo Horizonte,MG
+cust_572,u_cust_572,Sao Paulo,BA
+cust_573,u_cust_573,Rio de Janeiro,RJ
+cust_574,u_cust_574,Belo Horizonte,MG
+cust_575,u_cust_575,Rio de Janeiro,SP
+cust_576,u_cust_576,Sao Paulo,BA
+cust_577,u_cust_577,Rio de Janeiro,SP
+cust_578,u_cust_578,Rio de Janeiro,RJ
+cust_579,u_cust_579,Rio de Janeiro,RJ
+cust_580,u_cust_580,Rio de Janeiro,RJ
+cust_581,u_cust_581,Sao Paulo,BA
+cust_582,u_cust_582,Salvador,MG
+cust_583,u_cust_583,Rio de Janeiro,BA
+cust_584,u_cust_584,Rio de Janeiro,SP
+cust_585,u_cust_585,Belo Horizonte,BA
+cust_586,u_cust_586,Rio de Janeiro,SP
+cust_587,u_cust_587,Belo Horizonte,BA
+cust_588,u_cust_588,Salvador,MG
+cust_589,u_cust_589,Sao Paulo,SP
+cust_590,u_cust_590,Sao Paulo,RJ
+cust_591,u_cust_591,Salvador,RJ
+cust_592,u_cust_592,Sao Paulo,BA
+cust_593,u_cust_593,Salvador,RJ
+cust_594,u_cust_594,Salvador,SP
+cust_595,u_cust_595,Salvador,RJ
+cust_596,u_cust_596,Sao Paulo,MG
+cust_597,u_cust_597,Belo Horizonte,MG
+cust_598,u_cust_598,Salvador,BA
+cust_599,u_cust_599,Rio de Janeiro,SP
+cust_600,u_cust_600,Sao Paulo,MG
+cust_601,u_cust_601,Salvador,MG
+cust_602,u_cust_602,Salvador,SP
+cust_603,u_cust_603,Rio de Janeiro,RJ
+cust_604,u_cust_604,Belo Horizonte,RJ
+cust_605,u_cust_605,Belo Horizonte,BA
+cust_606,u_cust_606,Belo Horizonte,RJ
+cust_607,u_cust_607,Salvador,SP
+cust_608,u_cust_608,Salvador,MG
+cust_609,u_cust_609,Salvador,RJ
+cust_610,u_cust_610,Sao Paulo,BA
+cust_611,u_cust_611,Rio de Janeiro,RJ
+cust_612,u_cust_612,Salvador,SP
+cust_613,u_cust_613,Rio de Janeiro,BA
+cust_614,u_cust_614,Rio de Janeiro,RJ
+cust_615,u_cust_615,Belo Horizonte,BA
+cust_616,u_cust_616,Sao Paulo,SP
+cust_617,u_cust_617,Salvador,MG
+cust_618,u_cust_618,Belo Horizonte,SP
+cust_619,u_cust_619,Belo Horizonte,SP
+cust_620,u_cust_620,Salvador,SP
+cust_621,u_cust_621,Rio de Janeiro,SP
+cust_622,u_cust_622,Belo Horizonte,MG
+cust_623,u_cust_623,Rio de Janeiro,MG
+cust_624,u_cust_624,Sao Paulo,BA
+cust_625,u_cust_625,Rio de Janeiro,RJ
+cust_626,u_cust_626,Sao Paulo,MG
+cust_627,u_cust_627,Rio de Janeiro,MG
+cust_628,u_cust_628,Belo Horizonte,RJ
+cust_629,u_cust_629,Belo Horizonte,MG
+cust_630,u_cust_630,Sao Paulo,SP
+cust_631,u_cust_631,Salvador,SP
+cust_632,u_cust_632,Sao Paulo,RJ
+cust_633,u_cust_633,Sao Paulo,BA
+cust_634,u_cust_634,Rio de Janeiro,BA
+cust_635,u_cust_635,Rio de Janeiro,RJ
+cust_636,u_cust_636,Sao Paulo,RJ
+cust_637,u_cust_637,Belo Horizonte,SP
+cust_638,u_cust_638,Rio de Janeiro,BA
+cust_639,u_cust_639,Salvador,MG
+cust_640,u_cust_640,Rio de Janeiro,SP
+cust_641,u_cust_641,Rio de Janeiro,RJ
+cust_642,u_cust_642,Salvador,BA
+cust_643,u_cust_643,Sao Paulo,MG
+cust_644,u_cust_644,Salvador,MG
+cust_645,u_cust_645,Sao Paulo,SP
+cust_646,u_cust_646,Sao Paulo,BA
+cust_647,u_cust_647,Sao Paulo,BA
+cust_648,u_cust_648,Salvador,RJ
+cust_649,u_cust_649,Sao Paulo,BA
+cust_650,u_cust_650,Belo Horizonte,BA
+cust_651,u_cust_651,Salvador,SP
+cust_652,u_cust_652,Belo Horizonte,BA
+cust_653,u_cust_653,Sao Paulo,MG
+cust_654,u_cust_654,Rio de Janeiro,SP
+cust_655,u_cust_655,Sao Paulo,SP
+cust_656,u_cust_656,Belo Horizonte,RJ
+cust_657,u_cust_657,Belo Horizonte,BA
+cust_658,u_cust_658,Salvador,RJ
+cust_659,u_cust_659,Rio de Janeiro,MG
+cust_660,u_cust_660,Salvador,SP
+cust_661,u_cust_661,Belo Horizonte,SP
+cust_662,u_cust_662,Sao Paulo,SP
+cust_663,u_cust_663,Rio de Janeiro,MG
+cust_664,u_cust_664,Sao Paulo,MG
+cust_665,u_cust_665,Sao Paulo,RJ
+cust_666,u_cust_666,Rio de Janeiro,RJ
+cust_667,u_cust_667,Salvador,RJ
+cust_668,u_cust_668,Sao Paulo,BA
+cust_669,u_cust_669,Belo Horizonte,SP
+cust_670,u_cust_670,Sao Paulo,SP
+cust_671,u_cust_671,Rio de Janeiro,RJ
+cust_672,u_cust_672,Rio de Janeiro,SP
+cust_673,u_cust_673,Rio de Janeiro,RJ
+cust_674,u_cust_674,Salvador,BA
+cust_675,u_cust_675,Sao Paulo,BA
+cust_676,u_cust_676,Salvador,MG
+cust_677,u_cust_677,Salvador,BA
+cust_678,u_cust_678,Rio de Janeiro,RJ
+cust_679,u_cust_679,Rio de Janeiro,BA
+cust_680,u_cust_680,Salvador,MG
+cust_681,u_cust_681,Sao Paulo,SP
+cust_682,u_cust_682,Belo Horizonte,RJ
+cust_683,u_cust_683,Salvador,SP
+cust_684,u_cust_684,Sao Paulo,MG
+cust_685,u_cust_685,Rio de Janeiro,MG
+cust_686,u_cust_686,Rio de Janeiro,MG
+cust_687,u_cust_687,Sao Paulo,SP
+cust_688,u_cust_688,Belo Horizonte,SP
+cust_689,u_cust_689,Rio de Janeiro,SP
+cust_690,u_cust_690,Rio de Janeiro,SP
+cust_691,u_cust_691,Rio de Janeiro,MG
+cust_692,u_cust_692,Sao Paulo,MG
+cust_693,u_cust_693,Salvador,RJ
+cust_694,u_cust_694,Rio de Janeiro,RJ
+cust_695,u_cust_695,Salvador,SP
+cust_696,u_cust_696,Belo Horizonte,BA
+cust_697,u_cust_697,Rio de Janeiro,BA
+cust_698,u_cust_698,Rio de Janeiro,MG
+cust_699,u_cust_699,Belo Horizonte,MG
+cust_700,u_cust_700,Rio de Janeiro,MG
+cust_701,u_cust_701,Salvador,RJ
+cust_702,u_cust_702,Sao Paulo,RJ
+cust_703,u_cust_703,Salvador,MG
+cust_704,u_cust_704,Sao Paulo,MG
+cust_705,u_cust_705,Sao Paulo,MG
+cust_706,u_cust_706,Salvador,BA
+cust_707,u_cust_707,Salvador,RJ
+cust_708,u_cust_708,Salvador,BA
+cust_709,u_cust_709,Salvador,BA
+cust_710,u_cust_710,Belo Horizonte,MG
+cust_711,u_cust_711,Rio de Janeiro,MG
+cust_712,u_cust_712,Sao Paulo,SP
+cust_713,u_cust_713,Salvador,SP
+cust_714,u_cust_714,Salvador,BA
+cust_715,u_cust_715,Salvador,RJ
+cust_716,u_cust_716,Belo Horizonte,MG
+cust_717,u_cust_717,Salvador,MG
+cust_718,u_cust_718,Salvador,BA
+cust_719,u_cust_719,Salvador,SP
+cust_720,u_cust_720,Rio de Janeiro,RJ
+cust_721,u_cust_721,Belo Horizonte,SP
+cust_722,u_cust_722,Salvador,SP
+cust_723,u_cust_723,Sao Paulo,SP
+cust_724,u_cust_724,Sao Paulo,SP
+cust_725,u_cust_725,Sao Paulo,MG
+cust_726,u_cust_726,Belo Horizonte,MG
+cust_727,u_cust_727,Belo Horizonte,SP
+cust_728,u_cust_728,Sao Paulo,RJ
+cust_729,u_cust_729,Salvador,BA
+cust_730,u_cust_730,Belo Horizonte,RJ
+cust_731,u_cust_731,Sao Paulo,RJ
+cust_732,u_cust_732,Sao Paulo,RJ
+cust_733,u_cust_733,Salvador,SP
+cust_734,u_cust_734,Rio de Janeiro,MG
+cust_735,u_cust_735,Belo Horizonte,RJ
+cust_736,u_cust_736,Salvador,SP
+cust_737,u_cust_737,Sao Paulo,RJ
+cust_738,u_cust_738,Sao Paulo,RJ
+cust_739,u_cust_739,Salvador,SP
+cust_740,u_cust_740,Belo Horizonte,MG
+cust_741,u_cust_741,Rio de Janeiro,MG
+cust_742,u_cust_742,Rio de Janeiro,BA
+cust_743,u_cust_743,Sao Paulo,SP
+cust_744,u_cust_744,Belo Horizonte,BA
+cust_745,u_cust_745,Rio de Janeiro,BA
+cust_746,u_cust_746,Belo Horizonte,BA
+cust_747,u_cust_747,Belo Horizonte,MG
+cust_748,u_cust_748,Sao Paulo,SP
+cust_749,u_cust_749,Rio de Janeiro,BA
+cust_750,u_cust_750,Salvador,SP
+cust_751,u_cust_751,Sao Paulo,SP
+cust_752,u_cust_752,Rio de Janeiro,MG
+cust_753,u_cust_753,Rio de Janeiro,BA
+cust_754,u_cust_754,Rio de Janeiro,BA
+cust_755,u_cust_755,Rio de Janeiro,SP
+cust_756,u_cust_756,Rio de Janeiro,RJ
+cust_757,u_cust_757,Belo Horizonte,MG
+cust_758,u_cust_758,Sao Paulo,MG
+cust_759,u_cust_759,Belo Horizonte,MG
+cust_760,u_cust_760,Salvador,MG
+cust_761,u_cust_761,Rio de Janeiro,BA
+cust_762,u_cust_762,Sao Paulo,BA
+cust_763,u_cust_763,Rio de Janeiro,RJ
+cust_764,u_cust_764,Sao Paulo,MG
+cust_765,u_cust_765,Belo Horizonte,MG
+cust_766,u_cust_766,Sao Paulo,SP
+cust_767,u_cust_767,Salvador,BA
+cust_768,u_cust_768,Salvador,MG
+cust_769,u_cust_769,Sao Paulo,RJ
+cust_770,u_cust_770,Sao Paulo,RJ
+cust_771,u_cust_771,Sao Paulo,BA
+cust_772,u_cust_772,Sao Paulo,RJ
+cust_773,u_cust_773,Salvador,RJ
+cust_774,u_cust_774,Rio de Janeiro,BA
+cust_775,u_cust_775,Sao Paulo,MG
+cust_776,u_cust_776,Sao Paulo,MG
+cust_777,u_cust_777,Salvador,RJ
+cust_778,u_cust_778,Salvador,RJ
+cust_779,u_cust_779,Belo Horizonte,MG
+cust_780,u_cust_780,Sao Paulo,BA
+cust_781,u_cust_781,Belo Horizonte,RJ
+cust_782,u_cust_782,Salvador,SP
+cust_783,u_cust_783,Salvador,BA
+cust_784,u_cust_784,Rio de Janeiro,RJ
+cust_785,u_cust_785,Sao Paulo,RJ
+cust_786,u_cust_786,Belo Horizonte,SP
+cust_787,u_cust_787,Salvador,SP
+cust_788,u_cust_788,Salvador,MG
+cust_789,u_cust_789,Belo Horizonte,BA
+cust_790,u_cust_790,Rio de Janeiro,BA
+cust_791,u_cust_791,Salvador,MG
+cust_792,u_cust_792,Sao Paulo,BA
+cust_793,u_cust_793,Salvador,BA
+cust_794,u_cust_794,Sao Paulo,BA
+cust_795,u_cust_795,Belo Horizonte,BA
+cust_796,u_cust_796,Sao Paulo,BA
+cust_797,u_cust_797,Belo Horizonte,SP
+cust_798,u_cust_798,Sao Paulo,BA
+cust_799,u_cust_799,Belo Horizonte,SP
