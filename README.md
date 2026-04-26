@@ -1,71 +1,89 @@
-# 🛍️ E-Commerce Analytics & Sales Prediction
+# 🛍️ Myntra-Inspired E-Commerce Analytics Hub
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg.svg)](https://zqth4jpwwirzobmymim2x6.streamlit.app)
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Deployed-black?logo=vercel)](https://anal-model.vercel.app/)
 
-A complete end-to-end data science project based on the **Olist Brazilian E-Commerce Dataset**. This project transforms raw transactional data into actionable business insights using Machine Learning and Exploratory Data Analysis.
-
----
-
-## 🚀 How to Run
-
-### 1. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 2. Generate Data (Optional)
-If you don't have the 100MB+ Olist dataset yet, run this to create simulated data for testing:
-```bash
-python mock_data_generator.py
-```
-
-### 3. Run Analytics Pipeline
-This script performs Data Engineering, EDA, RFM Analysis, and Model Training.
-```bash
-python ecommerce_analytics.py
-```
-
-### 4. Launch Dashboard
-```bash
-streamlit run app.py
-```
+A professional, end-to-end Data Science & Business Intelligence project. This hub transforms raw Brazilian e-commerce data (Olist) into actionable business strategies using Advanced Machine Learning and Customer Science.
 
 ---
 
-## 📊 Project Highlights
-
-### 1. Data Engineering
-- **Merging**: Unified 7 relational tables (orders, customers, products, items, etc.) into a single master dataframe.
-- **Cleaning**: Handled missing values in product categories and normalized timestamps for time-series analysis.
-- **Feature Engineering**: Extracted 'Delivery Delay' and 'Order Month' to capture seasonal and operational patterns.
+## 📺 Project Walkthrough
+### 1. Overview Dashboard
+![Overview Screenshot](outputs/figures/dashboard_overview.png)
+*Displays real-time KPIs including Total Revenue, Orders, and Average Review Scores. Includes global filters for Date and Category.*
 
 ### 2. Customer Segmentation (RFM)
-We categorized customers into four distinct business personas:
-- **Champions/High Value**: Frequent buyers with high spend.
-- **Loyal**: Consistent engagement, median spend.
-- **At Risk**: Have not purchased recently; need re-engagement campaigns.
-- **Low Engagement**: Single-time buyers with low order value.
+![Segments Screenshot](outputs/figures/dashboard_segments.png)
+*A 3D visualization of the Customer RFM space. Customers are automatically clustered into 4 personas: High Value, Loyal, At Risk, and Low Engagement.*
 
-### 3. Sales Prediction
-We compared three powerful models to predict final order value:
-- **Linear Regression**: Our baseline. High interpretability but struggles with non-linear relationships.
-- **Random Forest**: Excellent at handling outlier data and complex interactions.
-- **XGBoost**: Generally the top performer. It uses Gradient Boosting to iteratively correct errors, making it highly accurate for price prediction.
+### 3. Sales Forecaster
+![Forecast Screenshot](outputs/figures/dashboard_forecast.png)
+*An interactive Machine Learning interface where users can input product parameters to predict the sale value of an order.*
 
 ---
 
-## 🌍 Deployment
+## 📂 Project Structure
+Built with a modular, scalable architecture inspired by industry standards:
 
-To deploy this project for free on **Streamlit Cloud**:
-
-1.  **Push to GitHub**: Create a repository and upload all files (including `data/` and `models/`).
-2.  **Sign in to Streamlit Cloud**: Connect your GitHub account.
-3.  **New App**: Select your `anal_Model` repository and point the main file to `app.py`.
-4.  **Deploy**: Streamlit will automatically install dependencies and launch your dashboard at a public URL!
+```text
+anal_Model/
+├── data/
+│   ├── raw/           # Original 9 Olist CSV datasets
+│   └── processed/     # Cleaned and engineered Master DataFrames
+├── src/
+│   ├── config.py      # Global project settings and ML parameters
+│   ├── data_merging.py# Relational join logic for 9 tables
+│   ├── data_cleaning.py# Outlier treatment & null handling
+│   ├── eda.py         # Generation of professional business charts
+│   ├── segmentation.py# RFM computation & K-Means clustering
+│   └── forecasting.py # Model training (LR, RF) & evaluation
+├── models/            # Trained .pkl models and Scalers
+├── outputs/
+│   ├── figures/       # 11+ professional charts and dashboard captures
+│   ├── dashboard/     # The live Streamlit application (app.py)
+│   └── reports/       # Presentation guides & final summaries
+└── requirements.txt   # Environment dependency list
+```
 
 ---
 
-## 💡 Business Impact
-...
+## 🛠️ Step-by-Step Functionality
 
-## ⚖️ Ethical Considerations
-- **Dataset Bias**: This data represents the Brazilian market (2016-2018). Trends may differ in the Indian (Myntra) or Global markets.
-- **Privacy**: All customer names and contact details have been anonymized (using unique IDs) to protect user identity.
+### Page 1: Overview 📊
+*   **KPI Cards:** Instant view of the business health.
+*   **Revenue Trend:** Time-series analysis to identify seasonality.
+*   **Category Breakdown:** Visualizing which product groups drive the most value.
+
+### Page 2: EDA Explorer 🔍
+*   **Deep Dives:** Switch between 8 different views including Heatmaps and Correlation charts.
+*   **Logistics Impact:** Analyzes how delivery delays negatively affect customer loyalty.
+
+### Page 3: Customer Segments 👥
+*   **Segment Logic:** Uses K-Means clustering on Recency, Frequency, and Monetary data.
+*   **Focus Areas:** Highlighting 'At Risk' customers for prioritized marketing campaigns.
+
+### Page 4: Sales Forecast 📈
+*   **AI Predictor:** Uses a Random Forest Regressor to estimate order revenue.
+*   **Inputs:** Accepts product weight, length, and predicted score.
+
+---
+
+## 🚀 How to Run Locally
+
+1. **Clone the Repo:**
+   ```bash
+   git clone https://github.com/Amrit-raj50/anal_Model.git
+   cd anal_Model
+   ```
+
+2. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the Dashboard:**
+   ```bash
+   streamlit run outputs/dashboard/app.py
+   ```
+
+---
+*Created by Antigravity AI for the Myntra Case Study Challenge.*
